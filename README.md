@@ -7,10 +7,6 @@ Welcome to the repository for our Patient Management System, developed as part o
 - **Janritch Diputado**
 - **Zophia Maureen Roca**
 
-## Features
-
-- ** UNFINISHED **
-
 ## Technology Stack
 - **Frontend**: HTML, Tailwind CSS, JavaScript
 - **Backend**: PHP
